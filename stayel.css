@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    width: 100%;
+}
+.text{
+     width: 100%;
+     height: 550px;
+     background-image: url(./img/hero-33cc6eb8f1a98f8aacf154a4ff4c5f76d5610553e8ba4accb6d22515a64a184a.jpg);
+     background-size:cover;
+     background-repeat: no-repeat;
+       direction: rtl;
+  text-align: right; 
+}
+.formnav{
+   width: 100%;
+
+}
+.ii{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   height: 550px;
+    flex-direction: column;
+    width: 100%;
+}
+.h{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 20px;
+}
+p{
+    color: #292626;
+    margin-top: 30px;
+}
+ .button {
+   font-size:3px;
+   margin: 10px 0;
+   background-color:#52B035;
+  height: 50px;
+    width: 60px;border: #52B035;
+}
+ button.button span{
+    margin: 10px;
+    font-size: 20px;
+    color: #ffffff;
+}
+input{
+    font-size:  20px;
+    margin:30px 0;
+    height: 50px;
+    width: 60%;
+    border: #29262600;
+    color: #2e2c2c;
+    
+
+ }
+ 
+ input::placeholder{
+    font-size: 15px; 
+    color: #999;
+ }
+  
+ 
+ a{
+    text-decoration: none;
+    color: #000;
+ }
+a button{
+    font-size:20px;
+    width: 100px;
+    height:40px;
+    margin: 5px;
+
+ }
+
+a button:hover{
+    background-color: #52B035;
+    color: #ffffff;
+    border: #52b035;
+    
+ }
+ a.lk{
+    font-size: 20px;
+    background-color: #ffffff00;
+ }
+ a.vb button{
+   font-size:20px;
+    width: 150px;
+    height:40px;
+    margin: 5px;
+
+ }
+ article{
+   margin: 0;
+   padding: 0;
+ }
+ article .bo{
+    
+      
+    padding: 100px 0;
+    height: auto;
+    width:100% ;
+    direction: rtl;
+  text-align: right; 
+
+ }
+
+ .im{
+     display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    padding: 50px;
+    
+ }
+ .im a{
+ padding:50px;
+   
+ height: 40px;
+ }
+ a.a1{
+    background-image: url(./img/a1.jpg);
+    background-size:cover;
+ }
+ a.a2{
+    background-image: url(./img/a2.jpg);
+    background-size:cover;
+ }
+ a.a3{
+    background-image: url(./img/a3.jpg);
+    background-size:cover;
+ }
+ a.a4{
+    background-image: url(./img/a4.jpg);
+    background-size:cover;
+ }
+ a.a5{
+    background-image: url(./img/a5.jpg);
+    background-size:cover;
+ }
+ a.a6{
+    background-image: url(./img/a6.jpg);
+    background-size:cover;
+ }
+ a.a7{
+    background-image: url(./img/a7.jpg);
+    background-size:cover;
+ }
+ a.a8{
+    background-image: url(./img/a8.jpg);
+    background-size:cover;
+ }
+ a.a9{
+    background-image: url(./img/a9.jpg);
+    background-size:cover;
+ }
+ a.a10{
+    background-image: url(./img/a10.jpg);
+    background-size:cover;
+ }
+ a.a11{
+    background-image: url(./img/a11.jpg);
+    background-size:cover;
+ }
+ a.a12{
+    background-image: url(./img/a12.jpg);
+    background-size:cover;
+ }
+ a.a1,.a2,.a3,.a4,.a5,.a6,.a7,.a8,.a9,.a10,.a11,.a12  span{
+    font-size: 25px;
+    text-align: center;
+    color: #ffffff;
+ }
+ .to h2{
+   text-align: center;
+   align-items: center;
+   font-size: 30px;
+   margin-top:50px;
+
+ }
+ .vb {
+  
+   background-color: #f9ebea;
+   padding:0 18px ;
+   display: grid;
+   grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+   gap: 10px;
+   text-align:right;
+
+   
+   padding-bottom:50px;
+
+}
+ .vb a {
+ background-color: #f8f8f8;
+ border: #ffffff;
+margin: 10px;
+color: #000000;
+padding:20px 0;
+margin-top: 20px;
+display:inline-block;
+justify-content: center;
+font-size: 25px;
+
+
+ }
+a img{
+width:35px;height: auto;
+ }
+ .tr h2{
+   padding: 50px;
+   background-color: #f9ebea;
+   font-size: 30px;
+ }
+ .gp{
+display: grid;
+grid-template-columns: repeat(auto-fill,minmax(500px,auto));
+
+
+ }
+ .tet{
+   padding: 50px;
+   font-size: 20px;
+ }
+ .jm{
+font-size: 30px;
+margin: 20px 0;
+ }
+ .v video{
+   text-align: end;
+  margin-top: 50px;
+  width: 100%;
+  height: auto;
+ }
+.v{
+   width: 100%;
+   max-width: 800px;
+   max-width: 0 auto;
+}
+.ur{
+    font-size: 25px;
+    margin-top: 50px;
+}
+h2.jm{
+  
+}
+
